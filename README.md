@@ -1,7 +1,7 @@
 # Android app to demonstrate Proximity sensor
 ####                                                                                                     By Manoj Kumar
 ## Introduction 
-Android mobile app using Proximity (TYPE_PROXIMITY) sensor to simulate clapping using mobile phone and hand.
+Android mobile app using Proximity (TYPE_PROXIMITY) sensor to simulate clapping using mobile phone and hand. App adjusts sound at per proximity value.
 
 ## How to Run
 1.	Prerequisite: Android Studio, some Java knowledge
